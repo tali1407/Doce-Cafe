@@ -81,11 +81,11 @@ body{
 
 .link{
     display: flex;
-    flex-flow: row nowrap;
+    flex-flow: column nowrap;
     justify-content: space-between;
 }
 
 .link img{
-    width: 200px;
+    width: 100px;
 }
 
