@@ -78,7 +78,7 @@ body{
     flex-direction: column;
 }
 
-div .links a{
+div.links a{
     text-decoration: none;
     color: #4a6b2b;
 }
