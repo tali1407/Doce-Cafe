@@ -81,8 +81,9 @@ body{
 
 .link{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     aligh-items: center;
+    jutify-content: flex-start;
     gap: 20px;
 }
 
