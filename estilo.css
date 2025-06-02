@@ -81,8 +81,7 @@ body{
 
 .link{
     display: flex;
-    flex-direction: row;
-    aligh-items: center;
+    flex-flow: row, nowrap;
     jutify-content: flex-start;
     gap: 20px;
 }
