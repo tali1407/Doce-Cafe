@@ -79,3 +79,13 @@ body{
     flex-direction: column;
 }
 
+.link{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+}
+
+.link img{
+    width: 20px;
+}
+
