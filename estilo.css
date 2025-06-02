@@ -81,8 +81,9 @@ body{
 
 .link{
     display: flex;
-    flex-flow: column nowrap;
-    justify-content: space-between;
+    flex-direction: column;
+    aligh-items: center;
+    gap: 20px;
 }
 
 .link img{
