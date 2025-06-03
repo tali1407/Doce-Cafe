@@ -10,9 +10,10 @@ h1{
 }
 
 h2{
+    text-align: center;
     font-family: "Merriweather", serif;
     font-size: 40px;
-    
+    background-color:#79a154;
 }
 
 h3{
